@@ -1,0 +1,9 @@
+1) Managing Access to Docker Deamon
+2) Implement TLS Encryption
+3) Implement User Namespaces 
+4) Disabling Inter-container-communication (icc)
+
+TLS Creation Script
+https://github.com/AlexisAhmed/DockerSecurityEssentials
+Raw ... Copy url
+terminal .. wget <URL>
