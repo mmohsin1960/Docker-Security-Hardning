@@ -2,5 +2,5 @@
 2) Disabling the root user 
 3) Preventing privilege Escalation
 4) Limiting container capabilities
-5) Filesystem permissions and access
+5) Filesystem permissions and access -- Lockdown file system access 
 6) Disabling inter-container commuincation
